@@ -1,0 +1,6 @@
+Módulos: são conjuntos de código que a gente pode ou não reutilizar em outras partes do projeto ou até mesmo em outros projetos. Eles ajudam a organizar o código, separar responsabilidades e facilitar a manutenção.
+
+Tipos de módulos:
+-> Todos arquivos JavaScript são módulos por padrão (ESM - ECMAScript Modules).
+-> Nativos;
+-> npm (Node Package Manager);
