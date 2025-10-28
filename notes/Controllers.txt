@@ -1,0 +1,7 @@
+Create -> Criar um novo usuário
+
+Read -> pegar com o 'get' os usuários a partir do ID
+
+Update -> Fazer a atualização dos dados do usuário a partir do ID (fazer o update do usuário)
+
+Delete -> Deletar o usuário a partir do ID (fazer o delete do usuário)
